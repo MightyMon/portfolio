@@ -1,0 +1,33 @@
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DESIGNER | デザイナー
+
+Goutham O Shibu
+Hand crafted design & web development
+
+Design tools:
+Figma
+Blender
+
+github.com/MightyMon
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+Next.js
+Three.js
+Framer Motion
+Tailwind CSS
+AI
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8

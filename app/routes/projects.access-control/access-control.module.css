@@ -1,0 +1,13 @@
+.hardwareModels {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space2XL);
+    align-items: center;
+    justify-items: center;
+}
+
+@media (min-width: 1024px) {
+    .hardwareModels {
+        grid-template-columns: 1fr;
+    }
+}

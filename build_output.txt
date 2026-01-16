@@ -1,0 +1,231 @@
+
+> build
+> remix vite:build
+
+vite v5.1.3 building for production...
+transforming...
+node_modules/three-stdlib/libs/lottie.js (13062:32) Use of eval in "node_modules/three-stdlib/libs/lottie.js" is strongly discouraged as it poses security risks and may cause issues with minification.
+✓ 824 modules transformed.
+Generated an empty chunk: "api.set-theme".
+rendering chunks...
+computing gzip size...
+build/client/assets/spr-lesson-builder-dark-placeholder-BYjrS8rr.jpg      1.87 kB
+build/client/assets/logo-d601lmHx.svg                                     1.94 kB │ gzip:   0.82 kB
+build/client/assets/uses-background-placeholder-ppC4yTdE.jpg              2.60 kB
+build/client/assets/error-flatline-eK98OAAk.svg                           3.08 kB │ gzip:   1.37 kB
+build/client/assets/katakana-DR-bVyLd.svg                                 3.55 kB │ gzip:   1.71 kB
+build/client/assets/icons-DBSdwq_a.svg                                    4.26 kB │ gzip:   1.47 kB
+build/client/assets/ipa-gothic-DimHCOud.woff2                             7.21 kB
+build/client/assets/profile-placeholder-DOgU6wR2.jpg                      9.46 kB
+build/client/assets/gotham-bold-D1kvQ7KV.woff2                           11.40 kB
+build/client/assets/gotham-bold-italic-C_msAlmW.woff2                    11.92 kB
+build/client/assets/gotham-book-Bnaws0Ef.woff2                           12.02 kB
+build/client/assets/gotham-medium-0VT3RO8I.woff2                         12.05 kB
+build/client/assets/gotham-medium-italic-Dok430ou.woff2                  12.81 kB
+build/client/assets/gotham-book-italic-Bm2IEtSK.woff2                    12.87 kB
+build/client/.vite/manifest.json                                         16.61 kB │ gzip:   2.32 kB
+build/client/assets/iphone-11-DGIHa_Ph.glb                               27.52 kB
+build/client/assets/gamestack-login-hTRhV9nJ.jpg                         31.89 kB
+build/client/assets/gamestack-list-BdO7kQnP.jpg                          49.00 kB
+build/client/assets/macbook-pro-DZn-FKKF.glb                             57.03 kB
+build/client/assets/profile-CURl9P_w.jpg                                 72.63 kB
+build/client/assets/gamestack-login-large-ryOo_e4Z.jpg                   90.13 kB
+build/client/assets/spr-lesson-builder-dark-CleNpN1U.jpg                 99.62 kB
+build/client/assets/slice-app-PoRtkkeP.jpg                              110.96 kB
+build/client/assets/malware-generation-DGwcLt20.png                     122.49 kB
+build/client/assets/malware-detection-BGnRX2uy.png                      124.50 kB
+build/client/assets/gamestack-list-large-DYaUO4yA.jpg                   130.86 kB
+build/client/assets/profile-large-CCEQBeWY.jpg                          219.90 kB
+build/client/assets/spr-lesson-builder-dark-large-DZ47e5rw.jpg          242.16 kB
+build/client/assets/slice-background-5195om16.jpg                       242.34 kB
+build/client/assets/slice-app-large-CHKPTcWm.jpg                        305.94 kB
+build/client/assets/slice-background-large-Dnpu52lB.jpg                 571.24 kB
+build/client/assets/uses-background-DVBwh5G1.mp4                        706.86 kB
+build/client/assets/flatline-DaiGY3H4.mp4                             2,352.91 kB
+build/client/assets/chips-pfwlOiUb.glb                                4,145.00 kB
+build/client/assets/notfound-Cfa33_DP.mp4                             4,781.34 kB
+build/client/assets/route-Cbj1l1jK.css                                    0.20 kB │ gzip:   0.16 kB
+build/client/assets/index-BUsloKFI.css                                    0.21 kB │ gzip:   0.17 kB
+build/client/assets/displacement-sphere-D2dKsJud.css                      0.24 kB │ gzip:   0.18 kB
+build/client/assets/decoder-text-CdS84zvp.css                             0.50 kB │ gzip:   0.32 kB
+build/client/assets/divider-CJ0zz9kw.css                                  1.14 kB │ gzip:   0.43 kB
+build/client/assets/route-DLxMrFZt.css                                    1.92 kB │ gzip:   0.82 kB
+build/client/assets/meta-CUrllC_C.css                                     2.08 kB │ gzip:   0.72 kB
+build/client/assets/image-CQFqa4Pm.css                                    2.22 kB │ gzip:   0.77 kB
+build/client/assets/error-CmEnn51Q.css                                    4.17 kB │ gzip:   1.10 kB
+build/client/assets/heading-DxmoR0-i.css                                  6.21 kB │ gzip:   1.53 kB
+build/client/assets/project-D3JpM_tk.css                                  8.02 kB │ gzip:   1.75 kB
+build/client/assets/route-DZ4V55Yk.css                                    9.45 kB │ gzip:   1.81 kB
+build/client/assets/root-CFExmNMW.css                                    10.94 kB │ gzip:   2.60 kB
+build/client/assets/route-Dnj8SLuj.css                                   13.42 kB │ gzip:   2.72 kB
+build/client/assets/api.set-theme-l0sNRNKZ.js                             0.00 kB │ gzip:   0.02 kB
+build/client/assets/malware-detection-D00WKjov.js                         0.07 kB │ gzip:   0.09 kB
+build/client/assets/malware-generation-b2Tr3wsf.js                        0.07 kB │ gzip:   0.09 kB
+build/client/assets/spr-lesson-builder-dark-large-BxubgwhT.js             0.13 kB │ gzip:   0.11 kB
+build/client/assets/_-DFVdpaKC.js                                         0.35 kB │ gzip:   0.26 kB
+build/client/assets/config-2UNmaVPn.js                                    0.41 kB │ gzip:   0.28 kB
+build/client/assets/spr-lesson-builder-dark-placeholder-DguRl2jX.js       0.51 kB │ gzip:   0.30 kB
+build/client/assets/divider-COEg2EDY.js                                   0.72 kB │ gzip:   0.37 kB
+build/client/assets/gamestack-login-placeholder-DEHIV2fe.js               0.80 kB │ gzip:   0.56 kB
+build/client/assets/useWindowSize-ckq95FvP.js                             1.34 kB │ gzip:   0.66 kB
+build/client/assets/route-LpNTmlKa.js                                     1.55 kB │ gzip:   0.81 kB
+build/client/assets/decoder-text-C4jhgcRi.js                              1.77 kB │ gzip:   1.05 kB
+build/client/assets/meta--SDxYzfC.js                                      2.16 kB │ gzip:   1.01 kB
+build/client/assets/route-7wmBlDoL.js                                     2.16 kB │ gzip:   1.06 kB
+build/client/assets/route-h-Sx08W7.js                                     2.89 kB │ gzip:   1.56 kB
+build/client/assets/route-C1uRAZB5.js                                     3.54 kB │ gzip:   1.91 kB
+build/client/assets/project-aFwiZvKS.js                                   3.78 kB │ gzip:   1.62 kB
+build/client/assets/route-DP2on5JA.js                                     4.42 kB │ gzip:   1.99 kB
+build/client/assets/route-OpVSfsrn.js                                     5.05 kB │ gzip:   1.97 kB
+build/client/assets/error-DHmiSQae.js                                     5.37 kB │ gzip:   3.10 kB
+build/client/assets/image-erLtpiia.js                                     6.10 kB │ gzip:   2.45 kB
+build/client/assets/root-BE0E6GTY.js                                      8.88 kB │ gzip:   3.77 kB
+build/client/assets/heading-dgOPzsTm.js                                  12.26 kB │ gzip:   5.14 kB
+build/client/assets/displacement-sphere-ZE5j5EtU.js                      12.36 kB │ gzip:   3.53 kB
+build/client/assets/route-CW9QqdSJ.js                                    13.87 kB │ gzip:   5.65 kB
+build/client/assets/entry.client-CqdlAxRK.js                             14.14 kB │ gzip:   4.92 kB
+build/client/assets/use-spring-DEUaNzIo.js                               16.27 kB │ gzip:   6.85 kB
+build/client/assets/index-DbKQLGiA.js                                    39.08 kB │ gzip:  14.43 kB
+build/client/assets/components-CFLo7pHI.js                              225.23 kB │ gzip:  72.67 kB
+build/client/assets/throttle-Dz_P25eV.js                                561.26 kB │ gzip: 143.89 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 6.52s
+vite v5.1.3 building SSR bundle for production...
+transforming...
+✓ 167 modules transformed.
+x Build failed in 844ms
+Error [RollupError]: "action" is not exported by "app/routes/contact/contact.jsx", imported by "app/routes/contact/route.js".
+file: /home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/route.js:1:35
+1: export { Contact as default, meta, action } from './contact';
+                                      ^
+    at getRollupEror (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/parseAst.js:375:41)
+    at error (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/parseAst.js:372:42)
+    at Module.error (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:13651:16)
+    at Module.getVariableForExportName (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:13815:29)
+    at Module.includeAllExports (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:13891:37)
+    at Object.includeAllExports (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:14013:43)
+    at NamespaceVariable.include (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:13080:22)
+    at Module.includeVariable (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:14384:22)
+    at Module.includeVariableInModule (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:14402:14)
+    at Identifier.include (file:///home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:7387:36) {
+  binding: 'action',
+  code: 'MISSING_EXPORT',
+  exporter: '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/contact.jsx',
+  id: '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/route.js',
+  url: 'https://rollupjs.org/troubleshooting/#error-name-is-not-exported-by-module',
+  pos: 35,
+  loc: {
+    column: 35,
+    file: '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/route.js',
+    line: 1
+  },
+  frame: "1: export { Contact as default, meta, action } from './contact';\n" +
+    '                                      ^',
+  watchFiles: [
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/node_modules/@remix-run/dev/dist/config/defaults/entry.server.cloudflare.tsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.diabetic-breathalyzer/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.malware-generation/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/root.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.malware-detection/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.access-control/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/api.set-theme.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/uses/route.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/$.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/package.json',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.diabetic-breathalyzer/diabetic-breathalyzer.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.malware-generation/malware-generation.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.malware-detection/malware-detection.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.access-control/access-control.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/contact.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/home.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/uses/uses.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/root.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/global.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/reset.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/config.json',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/projects.access-control/access-control.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/contact/contact.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/uses/uses.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/intro.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/project-summary.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/profile.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/home.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/utils/meta.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/theme-provider/theme.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/utils/style.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/error/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/theme-provider/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/visually-hidden/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/progress/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/profile.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/intro.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/displacement-sphere.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/project-summary.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/project/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/footer/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/model/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/heading/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/button/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/error/error.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/decoder-text/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/divider/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/section/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/input/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/icon/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/displacement-sphere-fragment.glsl',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/displacement-sphere-vertex.glsl',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/transition/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/text/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/theme-provider/theme-provider.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/list/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/table/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/link/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/visually-hidden/visually-hidden.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/navbar.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/progress/progress.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useHydrated.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/model/device-models.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/project/project.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/footer/footer.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/model/model.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/routes/home/displacement-sphere.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/heading/heading.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/button/button.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/decoder-text/decoder-text.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/divider/divider.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/section/section.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/input/input.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/icon/icon.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/error/error.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/transition/transition.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/text/text.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useFormInput.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useHasMounted.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useInterval.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useInViewport.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useParallax.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/usePrevious.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useScrollToHash.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/hooks/useWindowSize.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/list/list.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/table/table.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/link/link.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/image/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/loader/index.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/visually-hidden/visually-hidden.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/components/progress/progress.module.css',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/nav-toggle.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/theme-toggle.jsx',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/nav-data.js',
+    '/home/mighty/Desktop/portfolio/goutham-shibu-portfolio/app/layouts/navbar/navbar.module.css',
+    ... 26 more items
+  ]
+}
